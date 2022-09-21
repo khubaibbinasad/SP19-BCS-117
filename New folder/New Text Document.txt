@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Khubaib Bin Asad Project intializing"
+git branch -M main
+git remote add origin https://github.com/khubaibbinasad/SP19-BCS-117.git
+git push -u origin main
