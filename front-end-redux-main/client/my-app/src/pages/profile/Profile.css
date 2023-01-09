@@ -1,0 +1,24 @@
+.home-header {
+    text-align: center;
+  }
+  
+  .home-header h2 {
+    color: #2714b6;
+    font-size: 2rem;
+    margin-top: 40px;
+  }
+  
+  .home-header h1 {
+    font-size: 3rem;
+    color: #101c97;
+    margin-bottom: 1rem;
+  }
+  
+  .home-header h1 span {
+    color: #120aa7;
+  }
+  .btn{
+    margin-top: 10px;
+  }
+  
+ 
